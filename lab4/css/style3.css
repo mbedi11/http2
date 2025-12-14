@@ -1,0 +1,13 @@
+section {
+  margin-top: 30px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  font-size: 0.9em;
+  color: #555;
+}

@@ -1,0 +1,1 @@
+console.log("script4.js: dodatni JS za povećanje broja HTTP zahtjeva.");
